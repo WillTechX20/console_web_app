@@ -1,0 +1,10 @@
+h1, h2 {
+text-decoration: underline;
+text-decoration-color: aqua;
+}
+
+html {
+text-align: center;
+background-color: darkturquoise;
+font-family: system-ui;
+}
